@@ -1,5 +1,44 @@
-h3{
+.hworld{
     background-color: crimson;
     font-family: 'Courier New', Courier, monospace;
     font-style: oblique;
+    text-align: center;
+
+}
+.programmer{
+    width: 450px;
+    height: auto;
+    background-color: aquamarine;
+    border: 5px solid tomato;
+    border-radius: 40px 10px 45px 24px;
+    padding: 8px;
+    display: inline-block;
+}
+.programmer_img{
+    width: 450px;
+    height: 320px;
+    border: 2px solid black;
+    border-radius: 40px 1px 50px 2px;
+}
+.programmer_title{
+    margin-bottom: 8px;
+    font-size: 30px;
+    font-family: sans-serif
+}
+.programmer_subtitile{
+   margin-bottom: 8px;
+    font-size: 25px;
+}
+.hello{
+    font-size: 18px;
+    font-weight: 600;
+    color: crimson;
+}
+.center{
+    text-align: center;
+    margin-top: -5px;
+}
+.p_description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
